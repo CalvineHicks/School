@@ -1,0 +1,9 @@
+Log into Janis
+
+calvineh$ ssh -x cahi0141@login.rc.colorado.edu
+The authenticity of host 'login.rc.colorado.edu (192.12.246.36)' can't be established.
+RSA key fingerprint is 1c:a0:51:01:1f:b4:78:0f:30:93:e5:fa:c0:24:41:5c.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'login.rc.colorado.edu,192.12.246.36' (RSA) to the list of known hosts.
+cahi0141@login.rc.colorado.edu's password: 
+Welcome to login04

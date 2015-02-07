@@ -1,0 +1,11 @@
+Super Computer Stuff
+
+
+vi (file name) (vim cheat sheet)
+module load slurm
+sbatch (file name)
+cat test (view file)
+cp test test.sh (copy file)
+rm test (remove file)
+emacs test.sh (emacs cheat sheet)
+esc shiftZZ to exit and save
