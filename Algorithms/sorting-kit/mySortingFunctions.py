@@ -32,6 +32,11 @@ def mergeSort(lst):
     # TODO: Implement mergesort here
     # You can add additional utility functions to help you out.
     # But the function to do mergesort should be called mergeSort
+    if (size(lst) == 1):
+        return lst
+    list1 = lst[:n/2]
+    list2 = lst[n/2:]
+    return mergeSort([mergeSort(list1),mergeSort(list2)])
 
     return lst # TODO: change this
 
